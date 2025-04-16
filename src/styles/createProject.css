@@ -1,0 +1,15 @@
+/* src/styles/createProject.css */
+
+@keyframes progressBar {
+    0% {
+      width: 0%;
+    }
+    100% {
+      width: 100%;
+    }
+  }
+  
+  .animate-progressBar {
+    animation: progressBar 2s ease-out forwards;
+  }
+  
