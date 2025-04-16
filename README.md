@@ -109,9 +109,9 @@ npm start
 
 <h2>👥 Contributors</h2>
 
-* Aniket — Frontend Developer, Project Lead
-* Team Member 1 — Sania S Kotharkar, [Email](sania.kotharkar@gmail.com), [GitHub](https://github.com/Sania-2520), LinkedIn
-* Team Member 2 — Rahul Pai, email, [GitHub](https://github.com/RahulGPi), LinkedIn
+* __Aniket__ — Frontend Developer, Project Lead
+* _Team Member 1_ — __Sania S Kotharkar__, [Email](sania.kotharkar@gmail.com), [GitHub](https://github.com/Sania-2520), [LinkedIn](https://www.linkedin.com/in/sania-kotharkar-087851246/)
+* _Team Member 2_ — __Rahul Pai__, email, [GitHub](https://github.com/RahulGPi), [LinkedIn](https://www.linkedin.com/in/rahul-pai17/)
 
 <h2> 📝 License </h2>
 <p>This project is licensed for educational and demo purposes only. For commercial use, please contact the author.</p>
